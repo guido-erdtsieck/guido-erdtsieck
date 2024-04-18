@@ -26,6 +26,7 @@ As a **Software Engineer** with a deep passion for backend technologies, I speci
 
 ## Featured Projects 💻
 
+**Coming Soon**
 <!--
 ### [Project 2 Title](project_2_link)
 
