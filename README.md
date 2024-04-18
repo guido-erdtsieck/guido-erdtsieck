@@ -23,10 +23,6 @@ As a **Software Engineer** with a deep passion for backend technologies, I speci
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-
-## Featured Projects 💻
-
-**Coming Soon**
 <!--
 ### [Project 2 Title](project_2_link)
 
