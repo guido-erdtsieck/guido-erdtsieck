@@ -34,7 +34,7 @@ As a **Software Engineer** with a deep passion for backend technologies, I speci
 
 ## Get in Touch 📬
 
-- **[Website](https://guidoerdtsieck.nl/)
+- **[Website](https://guidoerdtsieck.nl/)**
 - **[LinkedIn](https://www.linkedin.com/in/guido-erdtsieck-01a5a0256/?originalSubdomain=nl)**
 - **[Email](developer@guidoerdtsieck.nl)**
 
