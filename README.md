@@ -1,4 +1,4 @@
-# Hello my name is Guido, and I am a software developer.👋
+# Hello my name is Guido, and I am a Software Developer.👋
 ## About Me 🚀
 
 As a **Software Developer** with a deep passion for backend technologies, I specialize in Python, Django, and Wagtail, crafting powerful and scalable web applications. While my expertise lies in backend development, I am actively expanding my skills into frontend territories, embracing React to create intuitive and responsive user interfaces. My broad interests in various software development fields fuel my continuous learning journey, enabling me to adapt and innovate across projects. As a freelance developer, I bring a versatile, growth-oriented mindset to every challenge, striving to deliver solutions that exceed expectations. Explore my portfolio to see how I blend technical skill, creativity, and a commitment to excellence in my quest to create impactful digital experiences.
