@@ -9,7 +9,7 @@ I’m excited to share that I’ve recently started a new role as a C# developer
 
 🌱 Currently learning: Deepening my knowledge in ASP.NET, C#, and .NET ecosystem
 
-📫 How to reach me: Contact me via LinkedIn or email me at developer@guidoerdtsieck.nl.
+📫 How to reach me: Contact me via LinkedIn or email me at developer@guidoerdtsieck.nl
 
 ## My Skills 🧠
 
