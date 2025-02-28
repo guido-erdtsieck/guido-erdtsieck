@@ -1,5 +1,4 @@
 # Hello my name is Guido, and I am a Software Developer.👋
-
 ## About Me 🚀
 
 As a Software Developer with a strong passion for backend technologies, I specialize in Python, Django, and Wagtail, building scalable and efficient web applications. Recently, I started a new role as a C# Developer, working with ASP.NET, broadening my expertise in backend development and enterprise applications. While my focus remains on backend development, I am continuously expanding my skills into frontend technologies, such as React or Angular, to create intuitive and responsive user interfaces. My broad interest in various software development fields fuels my continuous learning journey, allowing me to adapt and innovate across projects.
