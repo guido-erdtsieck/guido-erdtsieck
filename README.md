@@ -1,18 +1,22 @@
-# Hello my name is Guido, and I am a Software Developer.👋
-## About Me 🚀
+About Me 🚀
 
-As a **Software Developer** with a deep passion for backend technologies, I specialize in Python, Django, and Wagtail, crafting powerful and scalable web applications. While my expertise lies in backend development, I am actively expanding my skills into frontend territories, embracing React to create intuitive and responsive user interfaces. My broad interests in various software development fields fuel my continuous learning journey, enabling me to adapt and innovate across projects. As a freelance developer, I bring a versatile, growth-oriented mindset to every challenge, striving to deliver solutions that exceed expectations. Explore my portfolio to see how I blend technical skill, creativity, and a commitment to excellence in my quest to create impactful digital experiences.
+As a Software Developer with a strong passion for backend technologies, I specialize in Python, Django, and Wagtail, building scalable and efficient web applications. Recently, I started a new role as a C# Developer, working with ASP.NET, broadening my expertise in backend development and enterprise applications. While my focus remains on backend development, I am continuously expanding my skills into frontend technologies, such as React or Angular, to create intuitive and responsive user interfaces. My broad interest in various software development fields fuels my continuous learning journey, allowing me to adapt and innovate across projects.
 
-- 🔭 Working on: **I'm currently engaged in the development of several Django and Wagtail projects, in collaboration with vicktor.nl**
-- 🌍 Languages: **Programming languages: Python, Javascript and PHP. Human languages: English and Dutch.**
-- 🌱 Currently learning: **Python, Django, Wagtail**
-- 📫 How to reach me: **You can contact me via my [LinkedIn](https://www.linkedin.com/in/guido-erdtsieck-01a5a0256/?originalSubdomain=nl) or email me at developer@guidoerdtsieck.nl.**
+💼 Currently working for Topicus as a C# Developer with ASP.NET
+
+🌍 Languages: Programming: C#, Python, JavaScript, PHP | Human: English, Dutch
+
+🌱 Currently learning: Deepening my knowledge in ASP.NET, C#, and .NET ecosystem
+
+📫 How to reach me: Contact me via LinkedIn or email me at developer@guidoerdtsieck.nl.
 
 ## My Skills 🧠
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 ![Wagtail](https://img.shields.io/badge/Wagtail-43B02A?style=for-the-badge&logo=wagtail&logoColor=white)
+[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
+[[![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)](#)
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
